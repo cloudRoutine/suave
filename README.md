@@ -13,12 +13,14 @@ Suave also takes advantage of F# asynchronous
 workflows to perform non-blocking IO. In fact, Suave is written in a completely
 non-blocking fashion throughout.
 
-## Build Status
+## Build Status 
 
 | Platform | Status         |
 | -------- | -------------- |
 | Windows  | [![Build status](https://ci.appveyor.com/api/projects/status/g0lum9qndwb018sy/branch/master?svg=true)](https://ci.appveyor.com/project/AdemarGonzalez/suave/branch/master) |
 | Mono/OSX     | [![Build status](https://travis-ci.org/SuaveIO/suave.svg?branch=master)](https://travis-ci.org/SuaveIO/suave) |
+
+[Suave Nuget Package](https://www.nuget.org/packages/Suave)  [![NuGet Status](http://img.shields.io/nuget/v/Suave.svg?style=flat)](https://www.nuget.org/packages/Suave/)  
 
 What follows is a tutorial on how to create applications. Scroll past the
 tutorial to see detailed function documentation.
